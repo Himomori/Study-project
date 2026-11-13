@@ -1,0 +1,16 @@
+{
+    "name": "violetta/project",
+    "description": "kanban for learning",
+    "autoload": {
+        "psr-4": {
+            "Violetta\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Himomori",
+            "email": "violettalmkn@gmail.com"
+        }
+    ],
+    "require": {}
+}
